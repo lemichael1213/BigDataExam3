@@ -1,0 +1,6 @@
+
+ 
+for name in Jo Meg Beth Amy
+do
+grep -w -o $name ../shared/LittleWomen.txt | wc -l
+done
