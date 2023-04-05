@@ -1,4 +1,4 @@
-#how to copy original files into a new folder and rename them
+##how to copy original files into a new folder and rename them
 #we are copying csv files from the NEON folder and renaming them
 #usage: bash mycopyingscript.sh
 
